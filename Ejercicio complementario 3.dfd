@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+A
+5
+1
+1
+B
+5
+1
+1
+C
+6
+3
+1
+D
+3
+B+1
+1
+E
+3
+D+1
+1
+F
+7
+C*C*C*C
+6
+2
+1
+G
+3
+A*C
+1
+H
+8
+G*3.1415
+4
+1
+232
+'Tus numeros ingresados son: '  ,A ,'  ',B,'  ',C ,' 
+
+','Los numeros siguientes a ' ,B ,' son: ' ,D ,'  Y ',E,'
+
+','La potencia a la cuarta de: ',C, ' es: ' ,F,'
+
+','La multiplicacion de : ' ,A ,'  Y  ' ,C ,' x 3.1415 es: ',H
+1
