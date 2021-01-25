@@ -4,6 +4,10 @@
 1
 0
 0
+4
+1
+103
+'Ingresa tu salario base, nosotros aplicaremos los decuento y te diremos cuanto es tu salario al final'
 5
 1
 1
@@ -34,6 +38,6 @@ E
 Z-D
 4
 1
-19
-'EL VALOR ES: ' , E
+52
+'Tu sueldo ya con descuentos aplicados es: ','$' , E
 1

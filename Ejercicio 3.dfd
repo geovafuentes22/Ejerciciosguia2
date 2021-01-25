@@ -6,6 +6,10 @@
 1
 17
 Ingresando nombre
+4
+1
+118
+'Ingresa en el primer valor tu nombre, en el segundo las horas que trabajaste y en el tercero cuanto cuesta cada hora'
 6
 1
 6
@@ -30,22 +34,30 @@ hp
 h
 1
 h
-2
-hp
+1
+g
 4
 h*hp
 5
 resta
-7
-hp*0.15
+6
+g*0.15
 6
 1
 5
 final
-8
-hp-resta
+7
+g-resta
 4
 1
-93
-'Bienvenido :' , nombre,                                        '   tu salario es : ' , final
+205
+'Bienvenido :' , nombre , ' 
+
+',' Tus horas trabajadas fueron: ', h , '
+
+','Tu salario principal es  ' , g , '
+
+','El descuento que se aplico fue de : ' ,resta,'
+
+','El total a pagarte es: ' ,final
 1
